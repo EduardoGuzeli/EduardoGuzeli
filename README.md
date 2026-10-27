@@ -1,105 +1,90 @@
+# 👋 Hi, I'm Eduardo Guzeli Nogueira!
+
+### Software Engineering Student | Back-End Developer in Progress
+
+I'm a Software Engineering student at **FIAP**, passionate about technology and software development. I'm currently improving my programming skills and building projects to gain practical experience.
+
+- 🎓 Software Engineering student at FIAP
+- 💻 Focused on Back-End Development
+- 🌱 Currently improving my programming and web development skills
+- 🚀 Learning by building practical projects
+- 📍 São Paulo, Brazil
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
+
+---
+
+## 🚀 Featured Projects
+
+### 📋 [Gerenciador de Tarefas](https://github.com/EduardoGuzeli/Gerenciador-De-Tarefas)
+A task management application built with React. The project includes task organization, navigation between pages, reusable components, and a responsive interface.
+
+**Technologies:** React, JavaScript, CSS
+
+### 📊 [TechFlow Dashboard](https://github.com/EduardoGuzeli/CP5-FrontEnd)
+A front-end dashboard project developed as part of my studies, focused on interface development and web technologies.
+
+**Technologies:** HTML, CSS, JavaScript, Tailwind CSS, Vite
+
+### ✅ [Task Manager — CP4](https://github.com/EduardoGuzeli/CP4-web)
+A task management project developed with React and Tailwind CSS, using local storage to keep task data in the browser.
+
+**Technologies:** React, JavaScript, Tailwind CSS, Vite
+
+### 📸 [SnapFlow AI](https://github.com/EduardoGuzeli/Sprint-3-Web-Development)
+An academic project focused on a smart camera experience, with features designed to improve photography through suggestions and scene-related functionality.
+
+**Technologies:** React, JavaScript, Vite, Local Storage
+
+### 🍣 [Japanese Restaurant](https://github.com/moocadevs/Restaurante-japones)
+A restaurant website project featuring a menu, highlighted dishes, and reusable interface components.
+
+**Technologies:** React, JavaScript, HTML, CSS
+
+---
+
+## 📈 GitHub Contributions
 
 <div align="center">
-
-# Eduardo Guzeli Nogueira
-
-### Software Engineering Student | Back-end Development
-
-Building practical projects, learning software engineering, and turning ideas into applications.
-
-[LinkedIn](https://www.linkedin.com/in/eduardoguzeli/) · [GitHub](https://github.com/EduardoGuzeli) · [Repositories](https://github.com/EduardoGuzeli?tab=repositories)
-
+  <img
+    src="https://raw.githubusercontent.com/EduardoGuzeli/EduardoGuzeli/output/github-snake.svg"
+    alt="GitHub contribution snake animation"
+  />
 </div>
 
 ---
 
-## About Me
-
-- 🎓 Software Engineering student at **FIAP**, São Paulo, Brazil.
-- 💻 Focused on **back-end development**, while building experience in front-end technologies.
-- 🚀 Developing academic and personal projects to strengthen my programming skills.
-- 📚 Continuously learning about software development, clean code, and problem-solving.
-- 🤝 Open to internship opportunities and collaborative projects.
-
-## Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-## Featured Projects
-
-### [Gerenciador de Tarefas](https://github.com/EduardoGuzeli/Gerenciador-De-Tarefas)
-
-Task management application built with React, featuring reusable components, navigation, and an organized user interface.
-
-**Technologies:** React · JavaScript · React Router
-
-### [CP4 — Task Manager](https://github.com/EduardoGuzeli/CP4-web)
-
-A task management application developed to practice component-based architecture, state management, and browser data persistence.
-
-**Technologies:** React · Vite · Tailwind CSS · localStorage
-
-[View live project](https://cp4-webdev-ten.vercel.app/)
-
-### [TechFlow Dashboard](https://github.com/EduardoGuzeli/CP5-FrontEnd)
-
-A front-end dashboard project focused on interface organization, responsive layouts, and modern web technologies.
-
-**Technologies:** JavaScript · Vite · Tailwind CSS
-
-### [SnapFlow AI](https://github.com/EduardoGuzeli/Sprint-3-Web-Development)
-
-An academic web development project exploring a camera interface with features related to lighting, stabilization, scene recognition, and intelligent suggestions.
-
-**Technologies:** React · Vite · JavaScript · localStorage
-
-### [Japanese Restaurant Website](https://github.com/moocadevs/Restaurante-japones)
-
-A restaurant website developed as part of front-end coursework, featuring a homepage, menu sections, and reusable components.
-
-**Technologies:** React · JavaScript · CSS
-
-## GitHub Contributions
+## 📫 Let's Connect!
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardoGuzeli/EduardoGuzeli/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoGuzeli/EduardoGuzeli/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/EduardoGuzeli/EduardoGuzeli/output/github-snake.svg" />
-</picture>
-
+  <a href="https://www.linkedin.com/in/eduardoguzeli/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/EduardoGuzeli">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
-
-## Let's Connect
-
-I'm always looking to improve my skills, build meaningful projects, and learn from other developers.
-
-- **LinkedIn:** [eduardoguzeli](https://www.linkedin.com/in/eduardoguzeli/)
-- **GitHub:** [EduardoGuzeli](https://github.com/EduardoGuzeli)
 
 ---
 
 <div align="center">
-
-*Always learning. Always building.*
-
+  <i>Always learning, building, and improving.</i>
 </div>
